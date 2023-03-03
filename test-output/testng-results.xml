@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-03T10:00:33 IST" name="Suite" finished-at="2023-03-03T10:00:43 IST" duration-ms="9319">
+    <groups>
+    </groups>
+    <test started-at="2023-03-03T10:00:33 IST" name="Test" finished-at="2023-03-03T10:00:43 IST" duration-ms="9319">
+      <class name="TestCasesPackage.TC_register_001">
+        <test-method is-config="true" signature="browserlunch()[pri:0, instance:TestCasesPackage.TC_register_001@bcec361]" started-at="2023-03-03T10:00:33 IST" name="browserlunch" finished-at="2023-03-03T10:00:39 IST" duration-ms="6130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserlunch -->
+        <test-method signature="reg()[pri:1, instance:TestCasesPackage.TC_register_001@bcec361]" started-at="2023-03-03T10:00:40 IST" name="reg" finished-at="2023-03-03T10:00:40 IST" duration-ms="805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reg -->
+        <test-method signature="lang()[pri:2, instance:TestCasesPackage.TC_register_001@bcec361]" started-at="2023-03-03T10:00:40 IST" name="lang" finished-at="2023-03-03T10:00:41 IST" duration-ms="251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lang -->
+        <test-method signature="skilldrop()[pri:3, instance:TestCasesPackage.TC_register_001@bcec361]" started-at="2023-03-03T10:00:41 IST" name="skilldrop" finished-at="2023-03-03T10:00:41 IST" duration-ms="226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- skilldrop -->
+        <test-method signature="country()[pri:4, instance:TestCasesPackage.TC_register_001@bcec361]" started-at="2023-03-03T10:00:41 IST" name="country" finished-at="2023-03-03T10:00:41 IST" duration-ms="294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country -->
+        <test-method signature="dob()[pri:5, instance:TestCasesPackage.TC_register_001@bcec361]" started-at="2023-03-03T10:00:41 IST" name="dob" finished-at="2023-03-03T10:00:42 IST" duration-ms="608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dob -->
+        <test-method signature="passwordfun()[pri:6, instance:TestCasesPackage.TC_register_001@bcec361]" started-at="2023-03-03T10:00:42 IST" name="passwordfun" finished-at="2023-03-03T10:00:42 IST" duration-ms="244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passwordfun -->
+        <test-method signature="fileupload()[pri:7, instance:TestCasesPackage.TC_register_001@bcec361]" started-at="2023-03-03T10:00:42 IST" name="fileupload" finished-at="2023-03-03T10:00:42 IST" duration-ms="90" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fileupload -->
+        <test-method is-config="true" signature="deardown()[pri:0, instance:TestCasesPackage.TC_register_001@bcec361]" started-at="2023-03-03T10:00:42 IST" name="deardown" finished-at="2023-03-03T10:00:43 IST" duration-ms="435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deardown -->
+      </class> <!-- TestCasesPackage.TC_register_001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
